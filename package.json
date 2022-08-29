@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-console",
+  "version": "1.0.0",
+  "description": "Random String Messages in Console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeRoMTY/random-str-msg-console.git"
+  },
+  "keywords": [],
+  "author": "César Cavazos <cesar.cavazos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeRoMTY/random-str-msg-console/issues"
+  },
+  "homepage": "https://github.com/WeRoMTY/random-str-msg-console#readme",
+  "bin": {
+    "random-str-msg-console": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
